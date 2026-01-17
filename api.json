@@ -1,0 +1,43 @@
+{
+  "location": {
+    "city": "New York",
+    "country": "USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.0060
+    }
+  },
+  "current": {
+    "temperature_c": 22,
+    "feels_like_c": 21,
+    "humidity": 60,
+    "wind": {
+      "speed_kph": 15,
+      "direction": "NW"
+    },
+    "condition": {
+      "text": "Partly Cloudy",
+      "icon": "cloudy.png"
+    }
+  },
+  "forecast": [
+    {
+      "date": "2025-09-19",
+      "high_c": 24,
+      "low_c": 18,
+      "condition": "Sunny"
+    },
+    {
+      "date": "2025-09-20",
+      "high_c": 23,
+      "low_c": 17,
+      "condition": "Rain Showers"
+    },
+    {
+      "date": "2025-09-21",
+      "high_c": 20,
+      "low_c": 15,
+      "condition": "Cloudy"
+    }
+  ]
+}
